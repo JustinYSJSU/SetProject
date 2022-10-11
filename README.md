@@ -22,7 +22,6 @@ The goal of this project was to implement a LinkedList in Java
 - JUnit 5
 
 # How to Run 
-## How to run 
 - Make sure you have Java installed on your computer 
   - Windows: Open the command prompt and type ``java -version``
   - Mac/Linux: Open the terminal and type ``java -version``
